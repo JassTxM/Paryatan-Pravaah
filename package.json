@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "motion": "^13.4.0",
+    "ui-ux-pro-max-cli": "^2.15.0"
+  }
+}
